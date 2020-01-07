@@ -1,7 +1,7 @@
 # team01_project
 team01_project
 所需環境：Win 7 or MacOS
-所需套件：pygame
+所需套件：pygame、sys、random、time
 分工表：
    王懷志：處理細部程式碼
    周彥佑：初期架構思考，並協助胡牌判定等函數
