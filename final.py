@@ -213,7 +213,7 @@ win_flag = 0
 win =0
 flag = 0
 mj_round = 0
-t=15   # chance to pick card
+t=16   # chance to pick card
 
 def display_mj():
     x = 220
