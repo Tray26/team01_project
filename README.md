@@ -8,4 +8,5 @@ team01_project
    梁正：圖像素材處理，並把打出來的程式利用pygame圖像化
    陳泓睿：製作簡報、錄影，repo創建
 Demo重現方式：
+   用CMD或是jupyter notebook執行final.py，就可以享受麻將的樂趣了
    
